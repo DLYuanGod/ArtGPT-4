@@ -10,8 +10,9 @@
 
 ## Online Demo
 
-Click the image to chat with MiniGPT-4 around your images
-[![demo](figs/online_demo.png)](https://artgpt-4.github.io)
+<!-- Click the image to chat with MiniGPT-4 around your images
+[![demo](figs/online_demo.png)](https://artgpt-4.github.io) -->
+Waiting for updates...
 
 
 ## Examples
