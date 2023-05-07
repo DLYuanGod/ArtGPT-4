@@ -17,8 +17,9 @@ Click the image to chat with MiniGPT-4 around your images
 ## Examples
   |   |   |
 :-------------------------:|:-------------------------:
-![find wild](figs/examples/Art1.png) |  ![write story](figs/examples/Art2.png)
-![solve problem](figs/examples/Art3-G.png)
+![Dec Image](figs/examples/Art1.png)
+![Art](figs/examples/Art2.png)
+![Web](figs/examples/Art3-G.png)
 
 More examples can be found in the [project page](https://artgpt-4.github.io).
 
