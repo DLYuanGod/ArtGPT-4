@@ -4,7 +4,7 @@
 **Anhui Polytechnic University, Soochow University**
 
 <a href='https://artgpt-4.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='ArtGPT_4.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
-<a href='https://huggingface.co/spaces/Vision-CAIR/minigpt4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a> 
+<a href='https://huggingface.co/spaces/Vision-CAIR/minigpt4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> 
  <!-- <a href='https://huggingface.co/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OK4kYsZphwt5DXchKkzMBjYF6jnkqh4R?usp=sharing) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be) -->
 
 
@@ -21,9 +21,9 @@ Waiting for updates...
 :-------------------------:|:-------------------------:
 ![Dec Image](figs/examples/Art1.png)
 ![Art](figs/examples/Art2.png)
-![Web](figs/examples/Art3-G.png)
 
-More examples can be found in the [project page](https://artgpt-4.github.io).
+
+More examples can be found in the [project page](https://dlyuangod.github.io/artgpt-4.github.io/).
 
 
 
@@ -107,7 +107,7 @@ If you're using ArtGPT-4 in your research or applications, please cite using thi
 ```bibtex
 @article{yuan2023artgpt4,
       title={ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4},
-      author={Yuan, Zhengqng and Xue, Huiwen and Wang, Xinyi and Liu, Yongming and Zhao, zhuanzhe and Wang, Kun},
+      author={Yuan, Zhengqng and Xue, Huiwen and Wang, Xinyi and Liu, Yongming and Zhao, Zhuanzhe and Wang, Kun},
       year={2023}
     }
 ```
