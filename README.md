@@ -4,7 +4,8 @@
 **Anhui Polytechnic University, Soochow University**
 
 <a href='https://artgpt-4.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='ArtGPT_4.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
- <!-- <a href='https://huggingface.co/spaces/Vision-CAIR/minigpt4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a> <a href='https://huggingface.co/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OK4kYsZphwt5DXchKkzMBjYF6jnkqh4R?usp=sharing) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be) -->
+<a href='https://huggingface.co/spaces/Vision-CAIR/minigpt4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a> 
+ <!-- <a href='https://huggingface.co/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OK4kYsZphwt5DXchKkzMBjYF6jnkqh4R?usp=sharing) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be) -->
 
 
 
@@ -72,7 +73,7 @@ Then, set the path to the vicuna weight in the model config file
 [here](minigpt4/configs/models/minigpt4.yaml#L16) at Line 16.
 
 **3. Prepare the pretrained MiniGPT-4 checkpoint**
- [Downlad](https://drive.google.com/file/d/1a4zLvaiDBr-36pasffmgpvH5P7CKmpze/view?usp=share_link)
+ [Downlad](https://huggingface.co/Tyrannosaurus/ArtGPT-4/blob/main/ArtGPT-4.pth)
 
 
 Then, set the path to the pretrained checkpoint in the evaluation config file 
@@ -85,7 +86,7 @@ in [eval_configs/minigpt4_eval.yaml](eval_configs/minigpt4_eval.yaml#L10) at Lin
 Try out our demo [demo.py](demo.py) on your local machine by running
 
 ```
-python demo.py --cfg-path eval_configs/minigpt4_eval.yaml  --gpu-id 0
+python demo.py --cfg-path eval_configs/artgpt4_eval.yaml  --gpu-id 0
 ```
 
 
