@@ -1,0 +1,57 @@
+model:
+  arch: mini_gpt4
+  model_type: pretrain_vicuna
+  freeze_vit: True
+  freeze_qformer: True
+  ckpt: "/root/autodl-tmp/minigpt4_stage1_pretrain/20230427085/checkpoint.pth"
+
+datasets:
+  laion:
+    vis_processor:
+      train:
+        name: "blip2_image_train"
+        image_size: 224
+    text_processor:
+      train:
+        name: "blip_caption"
+    sample_ratio: 15
+  # cc_sbu:
+  #   vis_processor:
+  #       train:
+  #         name: "blip2_image_train"
+  #         image_size: 224
+  #   text_processor:
+  #       train:
+  #         name: "blip_caption"
+  #   sample_ratio: 14
+
+
+run:
+  task: image_text_pretrain
+  # optimizer
+  lr_sched: "linear_warmup_cosine_lr"
+  init_lr: 1e-7
+  min_lr: 8e-7
+  warmup_lr: 1e-8
+
+  weight_decay: 0.05
+  max_epoch: 4
+  batch_size_train: 32
+  batch_size_eval: 32
+  num_workers: 4
+  warmup_steps: 5000
+  iters_per_epoch: 5000
+
+  seed: 42
+  output_dir: "/root/autodl-tmp/minigpt4_stage1_pretrain"
+
+  amp: True
+  resume_ckpt_path: null
+
+  evaluate: False 
+  train_splits: ["train"]
+
+  device: "cuda"
+  world_size: 1
+  dist_url: "env://"
+  distributed: True
