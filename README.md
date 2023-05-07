@@ -17,8 +17,8 @@ Click the image to chat with MiniGPT-4 around your images
 ## Examples
   |   |   |
 :-------------------------:|:-------------------------:
-![find wild](figs\examples\Art1.png) |  ![write story](figs\examples\Art2.png)
-![solve problem](figs\examples\Art3-G.png)
+![find wild](figs/examples/Art1.png) |  ![write story](figs/examples/Art2.png)
+![solve problem](figs/examples/Art3-G.png)
 
 More examples can be found in the [project page](https://artgpt-4.github.io).
 
@@ -32,7 +32,7 @@ More examples can be found in the [project page](https://artgpt-4.github.io).
 - In addition to improved image understanding, ArtGPT-4 is capable of generating visual code, including aesthetically pleasing HTML/CSS web pages, with a more artistic flair.
 
 
-![overview](figs\examples\TBLOC.png)
+![overview](figs/examples/TBLOC.png)
 
 
 ## Getting Started
