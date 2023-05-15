@@ -1,11 +1,11 @@
 # ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4
-[Zhengqing Yuan](https://orcid.org/0000-0002-4870-8492)*, [Huiwen Xue]()*, [Xinyi Wang]()*, [Yongming Liu](https://www.semanticscholar.org/author/Yongming-Liu/2130184867)*, [Zhuanzhe Zhao](https://www.semanticscholar.org/author/Zhuanzhe-Zhao/2727550)*, and [Kun Wang](https://www.ahpu.edu.cn/jsjyxxgc/2023/0220/c5472a187109/page.htm)*. *Equal Contribution
+<!-- [Zhengqing Yuan](https://orcid.org/0000-0002-4870-8492)*, [Huiwen Xue]()*, [Xinyi Wang]()*, [Yongming Liu](https://www.semanticscholar.org/author/Yongming-Liu/2130184867)*, [Zhuanzhe Zhao](https://www.semanticscholar.org/author/Zhuanzhe-Zhao/2727550)*, and [Kun Wang](https://www.ahpu.edu.cn/jsjyxxgc/2023/0220/c5472a187109/page.htm)*. *Equal Contribution
 
-**Anhui Polytechnic University, Soochow University**
-
+**Anhui Polytechnic University, Soochow University** -->
+<!-- 
 <a href='https://artgpt-4.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='ArtGPT_4.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 <a href='https://huggingface.co/Tyrannosaurus/ArtGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> 
- <!-- <a href='https://huggingface.co/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OK4kYsZphwt5DXchKkzMBjYF6jnkqh4R?usp=sharing) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be) -->
+ <!-- <a href='https://huggingface.co/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OK4kYsZphwt5DXchKkzMBjYF6jnkqh4R?usp=sharing) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be) --> -->
 
 
 
