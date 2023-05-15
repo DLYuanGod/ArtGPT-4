@@ -2,10 +2,10 @@
 <!-- [Zhengqing Yuan](https://orcid.org/0000-0002-4870-8492)*, [Huiwen Xue]()*, [Xinyi Wang]()*, [Yongming Liu](https://www.semanticscholar.org/author/Yongming-Liu/2130184867)*, [Zhuanzhe Zhao](https://www.semanticscholar.org/author/Zhuanzhe-Zhao/2727550)*, and [Kun Wang](https://www.ahpu.edu.cn/jsjyxxgc/2023/0220/c5472a187109/page.htm)*. *Equal Contribution
 
 **Anhui Polytechnic University, Soochow University** -->
-<!-- 
-<a href='https://artgpt-4.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='ArtGPT_4.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
+
+<!-- <a href='https://artgpt-4.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='ArtGPT_4.pdf'><img src='https://img.shields.io/badge/Paper-PDF-red'></a>
 <a href='https://huggingface.co/Tyrannosaurus/ArtGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> 
- <!-- <a href='https://huggingface.co/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OK4kYsZphwt5DXchKkzMBjYF6jnkqh4R?usp=sharing) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be) --> -->
+ <!-- <a href='https://huggingface.co/Vision-CAIR/MiniGPT-4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OK4kYsZphwt5DXchKkzMBjYF6jnkqh4R?usp=sharing) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be) -->
 
 
 
@@ -103,14 +103,14 @@ We use [Laion-aesthetic](https://github.com/LAION-AI/laion-datasets/blob/main/la
 + [MiniGPT-4](https://minigpt-4.github.io/) Our work is based on improvements to the model.
 
 
-If you're using ArtGPT-4 in your research or applications, please cite using this BibTeX:
+<!-- If you're using ArtGPT-4 in your research or applications, please cite using this BibTeX:
 ```bibtex
 @article{yuan2023artgpt4,
       title={ArtGPT-4: Artistic Vision-Language Understanding with Adapter-enhanced MiniGPT-4},
       author={Yuan, Zhengqng and Xue, Huiwen and Wang, Xinyi and Liu, Yongming and Zhao, Zhuanzhe and Wang, Kun},
       year={2023}
     }
-```
+``` -->
 
 
 ## License
