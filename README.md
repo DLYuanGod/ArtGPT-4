@@ -30,7 +30,7 @@ More examples can be found in the [project page](https://dlyuangod.github.io/art
 ## Introduction
 - ArtGPT-4 is a novel model that builds upon the architecture of MiniGPT-4 by incorporating tailored linear layers and activation functions into Vicuna, specifically designed to optimize the model's performance in vision-language tasks.
 - The modifications made to Vicuna in ArtGPT-4 enable the model to better capture intricate details and understand the meaning of artistic images, resulting in improved image understanding compared to the original MiniGPT-4 model.
-- To address this issue and improve usability, we propose a novel way to create high-quality image-text pairs by the model itself and ChatGPT together. Based on this, we then create a small (3500 pairs in total) yet high-quality dataset.
+- To address this issue and improve usability, we propose a novel way to create high-quality image-text pairs by the model itself and ChatGPT together. Based on this, we then create a small (5000 pairs in total) yet high-quality dataset.
 - ArtGPT-4 was trained using about 200 GB of image-text pairs on a Tesla A100 device in just 2 hours, demonstrating impressive efficiency and effectiveness in training.
 - In addition to improved image understanding, ArtGPT-4 is capable of generating visual code, including aesthetically pleasing HTML/CSS web pages, with a more artistic flair.
 
